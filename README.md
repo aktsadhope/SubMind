@@ -93,3 +93,29 @@ SubMind respects your data — everything you track belongs to you, and you cont
 If SubMind helps you manage your finances more easily, please ⭐ this repository — it helps more people discover it.
 
 👉 Try SubMind here: https://submind.app
+
+---
+
+## 📚 Additional Resources
+
+- 📌 Roadmap → [ROADMAP.md](./ROADMAP.md)  
+- 🧩 Contributing → [CONTRIBUTING.md](./CONTRIBUTING.md)  
+- 🕒 Changelog → [CHANGELOG.md](./CHANGELOG.md)  
+- 💬 Discussions → https://github.com/8Alimansur/SubMind/discussions  
+- ⭐ Give a Star → if you like SubMind, please support the project!  
+
+---
+
+## 📄 License
+
+SubMind is open-source and available under the MIT License.  
+See [LICENSE](./LICENSE) for more information.
+
+---
+
+## 🧑‍💻 Author
+
+Created with ❤️ by **Alimansur**  
+Website: https://submind.app  
+
+---
